@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars2Go", "Cars2Go\Cars2Go.csproj", "{DD37BE97-9DE0-4C2A-AE85-8108DEAFEA77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD37BE97-9DE0-4C2A-AE85-8108DEAFEA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD37BE97-9DE0-4C2A-AE85-8108DEAFEA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD37BE97-9DE0-4C2A-AE85-8108DEAFEA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD37BE97-9DE0-4C2A-AE85-8108DEAFEA77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0799CEC8-C5E0-4D7A-BF67-24E3EEC6D5E6}
+	EndGlobalSection
+EndGlobal
